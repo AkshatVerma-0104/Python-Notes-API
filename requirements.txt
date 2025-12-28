@@ -1,0 +1,21 @@
+Python Notes API:
+
+
+MVPS:
+1) Create a Note
+2) Get all Notes
+3) Get a single note
+4) Update a note
+5) Delete a note
+
+
+Notes Structure:
+-> Id [int]
+-> Content [string]
+-> Tags [List[str]]
+-> CreatedAt [date]
+-> LastUpdated [date]
+
+Users Structure:
+-> Name [string]
+-> 
